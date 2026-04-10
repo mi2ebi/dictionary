@@ -2671,7 +2671,7 @@
     "gloss": "respond",
     "short": "",
     "keywords": [],
-    "frame": "c ci 1i",
+    "frame": "c c 1i",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "subject": "agent",
@@ -4221,7 +4221,7 @@
       "last",
       "persist"
     ],
-    "frame": "c ci 1i",
+    "frame": "c c 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
     "subject": "individual",
