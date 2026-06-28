@@ -612,7 +612,7 @@
   {
     "toaq": "bıe",
     "type": "predicate",
-    "english": "▯ takes place after ▯.",
+    "english": "▯ is after / in the future of ▯.",
     "gloss": "after",
     "short": "",
     "keywords": [],
@@ -627,7 +627,7 @@
   {
     "toaq": "bıejao",
     "type": "predicate",
-    "english": "▯ takes place long after ▯.",
+    "english": "▯ is long after / in the remote future of ▯.",
     "gloss": "long.after",
     "short": "",
     "keywords": [],
@@ -642,7 +642,7 @@
   {
     "toaq": "bıejuı",
     "type": "predicate",
-    "english": "▯ takes place shortly after ▯.",
+    "english": "▯ is shortly after / in the near future of ▯.",
     "gloss": "shortly.after",
     "short": "",
     "keywords": [],
